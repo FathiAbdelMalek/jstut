@@ -1,0 +1,14 @@
+nav {
+  background-color: rgb(65, 65, 65);
+  padding: 5px;
+
+  .list {
+    display: block;
+
+    .list-item {
+      display: inline-block;
+      margin-right: 5px;
+      margin-left: 5px;
+    }
+  }
+}
